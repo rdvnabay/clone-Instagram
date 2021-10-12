@@ -1,0 +1,22 @@
+export const USERS=[
+    {
+        user:'rdvnabay',
+        image:'https://lmg-labmanager.s3.amazonaws.com/assets/articleNo/23259/iImg/43114/owensjeffrey.jpg'
+    },
+    {
+        user:'busra',
+        image:'https://celeste.bold-themes.com/main-demo/wp-content/uploads/sites/3/2018/01/img-testimonials-career-04.jpg'
+    },
+    {
+        user:'mertartan',
+        image:'https://celeste.bold-themes.com/main-demo/wp-content/uploads/sites/3/2018/01/img-testimonials-career-04.jpg'
+    },
+    {
+        user:'anilturker',
+        image:'https://media1.fdncms.com/saltlake/imager/u/zoom/8334774/3f6b966d00000578_4428630_image_m_80_1492690622006_jpg-magnum.jpg'
+    },
+    {
+        user:'oktaydinlemek',
+        image:'https://media1.fdncms.com/saltlake/imager/u/zoom/8334774/3f6b966d00000578_4428630_image_m_80_1492690622006_jpg-magnum.jpg'
+    },
+]
