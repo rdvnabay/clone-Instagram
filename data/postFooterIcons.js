@@ -1,0 +1,19 @@
+export const POSTFOOTERICONS=[
+    {
+        name:'Like',
+        imageUrl:'https://img.icons8.com/fluency-systems-regular/60/ffffff/like--v1.png',
+        likedImageUrl:''
+    },
+    {
+        name:'Comment',
+        imageUrl:''
+    },
+    {
+        name:'Share',
+        imageUrl:''
+    },
+    {
+        name:'Save',
+        imageUrl:''
+    }
+]
