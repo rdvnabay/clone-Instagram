@@ -10,7 +10,7 @@ import { POSTS } from "../data/posts";
 const HomeScreen = () => {
   return (
     <SafeAreaView style={styles.container}>
-      <Header />
+      <Header/>
       <Stories />
       <ScrollView>
         {POSTS.map((post, index) => (
